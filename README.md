@@ -11,7 +11,12 @@ A hands-on and well-explained implementation of neural nets in Python
 **Gradient Descent:** https://iamtrask.github.io/2015/07/27/python-network-part2/
 
 Summary of 9 must-read deep learning papers   
-https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html   
+https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/   
+
+
+## Visualizations
+Detecting drawn numbers using a CNN   
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html
 
 ## Courses
 A good overview of ML concepts with practical examples in both Python and R   
