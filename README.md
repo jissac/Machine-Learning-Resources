@@ -1,4 +1,4 @@
-# Machine-Learning-Resources
+# Machine Learning and Data Visualization Resources
 
 A collection of ML material that I'm using in my personal learning
 
