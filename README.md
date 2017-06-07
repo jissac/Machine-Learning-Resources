@@ -16,9 +16,15 @@ https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Unders
 
 ## Visualizations
 Detecting drawn numbers using a CNN   
-http://scs.ryerson.ca/~aharley/vis/conv/flat.html
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html   
+
+Vaccine visualizations   
+http://www.randalolson.com/2016/03/04/revisiting-the-vaccine-visualizations/
 
 ## Courses
 A good overview of ML concepts with practical examples in both Python and R   
 https://www.udemy.com/machinelearning
 
+## Datasets
+**Health**   
+http://www.tycho.pitt.edu/
