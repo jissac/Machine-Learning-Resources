@@ -1,4 +1,4 @@
-# Machine Learning and Data Visualization Resources
+# Machine Learning Resources
 
 A collection of ML material that I'm using in my personal learning
 
@@ -14,12 +14,10 @@ Guide to how convolutional neural nets work
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/   
 
 
-## Visualizations
+## ML Visualizations
 Detecting drawn numbers using a CNN   
 http://scs.ryerson.ca/~aharley/vis/conv/flat.html   
 
-Vaccine visualizations   
-http://www.randalolson.com/2016/03/04/revisiting-the-vaccine-visualizations/
 
 ## Courses
 A good overview of ML concepts with practical examples in both Python and R   
