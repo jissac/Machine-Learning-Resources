@@ -21,7 +21,10 @@ http://scs.ryerson.ca/~aharley/vis/conv/flat.html
 
 ## Courses
 A good overview of ML concepts with practical examples in both Python and R   
-https://www.udemy.com/machinelearning
+https://www.udemy.com/machinelearning   
+   
+Andrew Ng's excellent introduction to ML   
+https://www.coursera.org/learn/machine-learning
 
 ## Datasets
 **Health**   
