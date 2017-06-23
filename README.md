@@ -2,7 +2,10 @@
 
 A collection of ML material that I'm using in my personal learning
 
-## Blogs
+## Blogs and Websites    
+The leading online community for data analytics and predictive modeling. Lots of competitions and examples.    
+https://www.kaggle.com/    
+
 A high level overview of machine learning goals, processes, and strategies  
 http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/
 
