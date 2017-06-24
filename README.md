@@ -1,6 +1,11 @@
 # Machine Learning Resources
 
-A collection of ML material that I'm using in my personal learning
+A collection of ML material that I'm using in my personal learning    
+
+## Curriculums    
+Outlines of topics to study while learning machine learning    
+http://karlrosaen.com/ml/    
+https://elitedatascience.com/learn-machine-learning    
 
 ## Blogs and Websites    
 The leading online community for data analytics and predictive modeling. Lots of competitions and examples.    
