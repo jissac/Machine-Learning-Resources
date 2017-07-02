@@ -28,6 +28,7 @@ http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html
 
 **Curriculums**     
 https://www.ml.cmu.edu/prospective-students/ms-in-machine-learning.html     
-https://analytics.gatech.edu/curriculum/analytical-tools-track
-http://www.omscs.gatech.edu/specialization-machine-learning    
+https://analytics.gatech.edu/curriculum/analytical-tools-track     
+http://www.omscs.gatech.edu/specialization-machine-learning      
+
 
