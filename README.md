@@ -8,6 +8,9 @@ http://karlrosaen.com/ml/
 https://elitedatascience.com/learn-machine-learning    
 
 ## Blogs and Websites    
+Guide to deep learning     
+http://yerevann.com/a-guide-to-deep-learning/     
+
 The leading online community for data analytics and predictive modeling. Lots of competitions and examples.    
 https://www.kaggle.com/    
 
