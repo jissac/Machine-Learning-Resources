@@ -24,6 +24,8 @@ A hands-on and well-explained implementation of neural nets in Python
 Guide to how convolutional neural nets work   
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/   
 
+Gradient Descent for Linear Regression in Python and R      
+http://blog.hackerearth.com/gradient-descent-algorithm-linear-regression
 
 ## ML Visualizations
 Detecting drawn numbers using a CNN   
