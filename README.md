@@ -39,8 +39,11 @@ https://www.udemy.com/machinelearning
 Andrew Ng's excellent introduction to ML   
 https://www.coursera.org/learn/machine-learning
 
-Andrew Ng's excellent 5-course deep learning specialization 
-https://www.coursera.org/specializations/deep-learning
+Andrew Ng's excellent 5-course deep learning specialization     
+https://www.coursera.org/specializations/deep-learning     
+
+An excellent and practical AI course with a lot of focus on coding state-of-the-art models     
+http://course.fast.ai/
 
 ## Books      
 Good introduction to Deep Learning     
