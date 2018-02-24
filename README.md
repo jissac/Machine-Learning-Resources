@@ -25,7 +25,10 @@ Guide to how convolutional neural nets work
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/   
 
 Gradient Descent for Linear Regression in Python and R      
-http://blog.hackerearth.com/gradient-descent-algorithm-linear-regression
+http://blog.hackerearth.com/gradient-descent-algorithm-linear-regression      
+
+Clear explanation of LSTM-RNNs     
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 ## ML Visualizations
 Detecting drawn numbers using a CNN   
