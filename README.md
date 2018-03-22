@@ -33,7 +33,10 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 Neural nets     
 http://deeplearning.stanford.edu/tutorial/    
 http://neuralnetworksanddeeplearning.com/index.html     
-http://www.ritchieng.com/neural-networks-representation/
+http://www.ritchieng.com/neural-networks-representation/     
+
+ML and Data Wrangling Blog      
+https://chrisalbon.com/#machine_learning
 
 ## ML Visualizations
 Detecting drawn numbers using a CNN   
