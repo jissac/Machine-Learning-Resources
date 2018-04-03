@@ -54,7 +54,10 @@ Andrew Ng's excellent 5-course deep learning specialization
 https://www.coursera.org/specializations/deep-learning     
 
 An excellent and practical AI course with a lot of focus on coding state-of-the-art models     
-http://course.fast.ai/
+http://course.fast.ai/      
+
+DataCamp's Data Scientist track     
+https://www.datacamp.com/tracks/data-scientist-with-python
 
 ## Books      
 Good introduction to Deep Learning     
