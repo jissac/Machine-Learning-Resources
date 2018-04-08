@@ -39,7 +39,10 @@ http://neuralnetworksanddeeplearning.com/index.html
 http://www.ritchieng.com/neural-networks-representation/     
 
 ML and Data Wrangling Blog      
-https://chrisalbon.com/#machine_learning
+https://chrisalbon.com/#machine_learning     
+
+Deep learning Blog     
+http://www.wildml.com/
 
 ## ML Visualizations
 Detecting drawn numbers using a CNN   
