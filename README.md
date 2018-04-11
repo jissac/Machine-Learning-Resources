@@ -44,10 +44,12 @@ https://chrisalbon.com/#machine_learning
 Deep learning Blog     
 http://www.wildml.com/
 
-## ML Visualizations
+## Visualizations
 Detecting drawn numbers using a CNN   
-http://scs.ryerson.ca/~aharley/vis/conv/flat.html   
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html     
 
+Matrix multiplication     
+http://matrixmultiplication.xyz/
 
 ## Courses
 A good overview of ML concepts with practical examples in both Python and R   
