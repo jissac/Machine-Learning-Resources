@@ -65,7 +65,10 @@ An excellent and practical AI course with a lot of focus on coding state-of-the-
 http://course.fast.ai/      
 
 DataCamp's Data Scientist track     
-https://www.datacamp.com/tracks/data-scientist-with-python
+https://www.datacamp.com/tracks/data-scientist-with-python     
+
+Google's ML crash course using TensorFlow     
+https://developers.google.com/machine-learning/crash-course/
 
 ## Books      
 Good introduction to Deep Learning     
