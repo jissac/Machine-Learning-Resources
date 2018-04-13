@@ -1,12 +1,7 @@
 # Machine Learning Resources
 
 A collection of ML material that I'm using in my personal learning    
-
-## Curriculums    
-Outlines of topics to study while learning machine learning    
-http://karlrosaen.com/ml/    
-https://elitedatascience.com/learn-machine-learning    
-
+  
 ## Blogs and Websites    
 Guide to deep learning     
 http://yerevann.com/a-guide-to-deep-learning/     
@@ -71,9 +66,21 @@ Google's ML crash course using TensorFlow
 https://developers.google.com/machine-learning/crash-course/
 
 ## Books      
-Good introduction to Deep Learning     
-http://neuralnetworksanddeeplearning.com/index.html     
+Good introduction to Deep Learning by Michael Nielsen     
+http://neuralnetworksanddeeplearning.com/index.html    
+
+The Deep Learning book by Goodfellow et al          
+http://www.deeplearningbook.org/
+
+## Curriculums    
+Outlines of topics to study while learning machine learning    
+http://karlrosaen.com/ml/    
+https://elitedatascience.com/learn-machine-learning  
 
 ## Datasets
-**Health**   
-http://www.tycho.pitt.edu/
+Health data  
+http://www.tycho.pitt.edu/     
+
+Cats vs Dogs classification
+https://www.kaggle.com/c/dogs-vs-cats/data     
+
