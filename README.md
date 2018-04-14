@@ -4,7 +4,26 @@ A collection of ML material that I'm using in my personal learning
 
 ## Ethics
 Links focused on understanding the implications of AI and how to positively shape its development     
-https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/#why-work-on-this-problem      
+https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/#why-work-on-this-problem    
+
+## Courses
+A good overview of ML concepts with practical examples in both Python and R   
+https://www.udemy.com/machinelearning   
+   
+Andrew Ng's excellent introduction to ML   
+https://www.coursera.org/learn/machine-learning
+
+Andrew Ng's excellent 5-course deep learning specialization     
+https://www.coursera.org/specializations/deep-learning     
+
+An excellent and practical AI course with a lot of focus on coding state-of-the-art models     
+http://course.fast.ai/      
+
+DataCamp's Data Scientist track     
+https://www.datacamp.com/tracks/data-scientist-with-python     
+
+Google's ML crash course using TensorFlow     
+https://developers.google.com/machine-learning/crash-course/
 
 ## Blogs and Websites    
 Guide to deep learning     
@@ -43,32 +62,6 @@ https://chrisalbon.com/#machine_learning
 Deep learning Blog     
 http://www.wildml.com/
 
-## Visualizations
-Detecting drawn numbers using a CNN   
-http://scs.ryerson.ca/~aharley/vis/conv/flat.html     
-
-Matrix multiplication     
-http://matrixmultiplication.xyz/
-
-## Courses
-A good overview of ML concepts with practical examples in both Python and R   
-https://www.udemy.com/machinelearning   
-   
-Andrew Ng's excellent introduction to ML   
-https://www.coursera.org/learn/machine-learning
-
-Andrew Ng's excellent 5-course deep learning specialization     
-https://www.coursera.org/specializations/deep-learning     
-
-An excellent and practical AI course with a lot of focus on coding state-of-the-art models     
-http://course.fast.ai/      
-
-DataCamp's Data Scientist track     
-https://www.datacamp.com/tracks/data-scientist-with-python     
-
-Google's ML crash course using TensorFlow     
-https://developers.google.com/machine-learning/crash-course/
-
 ## Books      
 Good introduction to Deep Learning by Michael Nielsen     
 http://neuralnetworksanddeeplearning.com/index.html    
@@ -80,6 +73,13 @@ http://www.deeplearningbook.org/
 Outlines of topics to study while learning machine learning    
 http://karlrosaen.com/ml/    
 https://elitedatascience.com/learn-machine-learning  
+
+## Visualizations
+Detecting drawn numbers using a CNN   
+http://scs.ryerson.ca/~aharley/vis/conv/flat.html     
+
+Matrix multiplication     
+http://matrixmultiplication.xyz/
 
 ## Datasets
 Health data  
