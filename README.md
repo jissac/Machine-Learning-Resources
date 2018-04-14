@@ -1,7 +1,11 @@
 # Machine Learning Resources
 
 A collection of ML material that I'm using in my personal learning    
-  
+
+## Ethics
+Links focused on understanding the implications of AI and how to positively shape its development     
+https://80000hours.org/problem-profiles/positively-shaping-artificial-intelligence/#why-work-on-this-problem      
+
 ## Blogs and Websites    
 Guide to deep learning     
 http://yerevann.com/a-guide-to-deep-learning/     
