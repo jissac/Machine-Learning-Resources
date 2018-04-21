@@ -88,6 +88,6 @@ http://matrixmultiplication.xyz/
 Health data  
 http://www.tycho.pitt.edu/     
 
-Cats vs Dogs classification
+Cats vs Dogs classification     
 https://www.kaggle.com/c/dogs-vs-cats/data     
 
