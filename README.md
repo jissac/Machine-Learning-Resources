@@ -60,7 +60,10 @@ ML and Data Wrangling Blog
 https://chrisalbon.com/#machine_learning     
 
 Deep learning Blog     
-http://www.wildml.com/
+http://www.wildml.com/     
+
+Deep Reinforcement Learning Beginner's Guide     
+https://deeplearning4j.org/deepreinforcementlearning#
 
 ## Books      
 Good introduction to Deep Learning by Michael Nielsen     
