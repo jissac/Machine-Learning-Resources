@@ -23,7 +23,10 @@ DataCamp's Data Scientist track
 https://www.datacamp.com/tracks/data-scientist-with-python     
 
 Google's ML crash course using TensorFlow     
-https://developers.google.com/machine-learning/crash-course/
+https://developers.google.com/machine-learning/crash-course/     
+
+David Silver's 10 lecture series on Reinforcement Learning     
+https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
 
 ## Blogs and Websites    
 Guide to deep learning     
@@ -63,7 +66,10 @@ Deep learning Blog
 http://www.wildml.com/     
 
 Deep Reinforcement Learning Beginner's Guide     
-https://deeplearning4j.org/deepreinforcementlearning#
+https://deeplearning4j.org/deepreinforcementlearning#     
+
+Reinforcement Learning code examples (supplement to David Silver's course)
+http://www.wildml.com/2016/10/learning-reinforcement-learning/
 
 ## Books      
 Good introduction to Deep Learning by Michael Nielsen     
@@ -76,6 +82,9 @@ http://www.deeplearningbook.org/
 Outlines of topics to study while learning machine learning    
 http://karlrosaen.com/ml/    
 https://elitedatascience.com/learn-machine-learning  
+
+## Newsletters  
+
 
 ## Visualizations
 Detecting drawn numbers using a CNN   
