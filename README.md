@@ -76,7 +76,10 @@ Good introduction to Deep Learning by Michael Nielsen
 http://neuralnetworksanddeeplearning.com/index.html    
 
 The Deep Learning book by Goodfellow et al          
-http://www.deeplearningbook.org/
+http://www.deeplearningbook.org/     
+
+Reinforcement Learning
+http://incompleteideas.net/book/bookdraft2017nov5.pdf
 
 ## Curriculums    
 Outlines of topics to study while learning machine learning    
