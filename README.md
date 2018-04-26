@@ -1,6 +1,6 @@
 # Machine Learning Resources
 
-A collection of ML material that I'm using in my personal learning    
+A collection of ML related material that I've found to be helpful.
 
 ## Ethics
 Links focused on understanding the implications of AI and how to positively shape its development     
