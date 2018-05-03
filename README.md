@@ -26,7 +26,10 @@ Google's ML crash course using TensorFlow
 https://developers.google.com/machine-learning/crash-course/     
 
 David Silver's 10 lecture series on Reinforcement Learning     
-https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ
+https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ     
+
+MIT course of self-driving cars     
+https://selfdrivingcars.mit.edu/
 
 ## Blogs and Websites    
 Guide to deep learning     
