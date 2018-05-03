@@ -72,7 +72,10 @@ Deep Reinforcement Learning Beginner's Guide
 https://deeplearning4j.org/deepreinforcementlearning#     
 
 Reinforcement Learning code examples (supplement to David Silver's course)
-http://www.wildml.com/2016/10/learning-reinforcement-learning/
+http://www.wildml.com/2016/10/learning-reinforcement-learning/     
+
+List of the best performing papers on various dataset standards     
+http://rodrigob.github.io/are_we_there_yet/build/#about
 
 ## Books      
 Good introduction to Deep Learning by Michael Nielsen     
