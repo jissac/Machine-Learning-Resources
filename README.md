@@ -78,7 +78,10 @@ Two-part intro to reinforcement learning
 https://joshgreaves.com/reinforcement-learning/introduction-to-reinforcement-learning/        
 
 List of the best performing papers on various dataset standards     
-http://rodrigob.github.io/are_we_there_yet/build/#about
+http://rodrigob.github.io/are_we_there_yet/build/#about     
+
+Berkeley AI Research (BAIR)     
+http://bair.berkeley.edu/blog/
 
 ## Books      
 Good introduction to Deep Learning by Michael Nielsen     
