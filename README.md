@@ -113,5 +113,8 @@ Health data
 http://www.tycho.pitt.edu/     
 
 Cats vs Dogs classification     
-https://www.kaggle.com/c/dogs-vs-cats/data     
+https://www.kaggle.com/c/dogs-vs-cats/data        
+
+Stanford Street View House Numbers       
+http://ufldl.stanford.edu/housenumbers/
 
