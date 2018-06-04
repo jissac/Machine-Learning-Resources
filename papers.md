@@ -2,7 +2,7 @@ A collection of machine learning papers.
 
 ## Convolutional Neural Nets (CNNs)   
 
-**LeNet-5:** The OG, if you will. A bit dated now, but Sections 2 and 3 are where to focus     
+**LeNet-5:** The OG, if you will. Sections 2 and 3 discuss the network architecture    
 http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf     
 
 **AlexNet:** The paper that started the revolution    
@@ -13,3 +13,7 @@ https://arxiv.org/pdf/1409.1556.pdf
 
 **YOLO v1** Fast object detection   
 https://homes.cs.washington.edu/~ali/papers/YOLO.pdf
+
+## Toolkits
+**Scikit-learn:** Machine learning software     
+https://arxiv.org/pdf/1309.0238.pdf
