@@ -93,8 +93,15 @@ http://neuralnetworksanddeeplearning.com/index.html
 The Deep Learning book by Goodfellow et al          
 http://www.deeplearningbook.org/     
 
-Reinforcement Learning
+Reinforcement Learning        
 http://incompleteideas.net/book/bookdraft2017nov5.pdf
+
+Hands on Machine Learning with Scikit-learn and Tensorflow       
+http://shop.oreilly.com/product/0636920052289.do     
+
+Deep Learning with Python (using Keras)
+https://www.manning.com/books/deep-learning-with-python
+
 
 ## Curriculums    
 Outlines of topics to study while learning machine learning    
@@ -102,7 +109,8 @@ http://karlrosaen.com/ml/
 https://elitedatascience.com/learn-machine-learning  
 
 ## Newsletters  
-
+Import AI      
+https://jack-clark.net/about/
 
 ## Visualizations
 Detecting drawn numbers using a CNN   
