@@ -75,7 +75,10 @@ Reinforcement Learning code examples (supplement to David Silver's course)
 http://www.wildml.com/2016/10/learning-reinforcement-learning/     
 
 Two-part intro to reinforcement learning      
-https://joshgreaves.com/reinforcement-learning/introduction-to-reinforcement-learning/        
+https://joshgreaves.com/reinforcement-learning/introduction-to-reinforcement-learning/       
+
+Eight-part intro to reinforcement learning        
+https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0 
 
 List of the best performing papers on various dataset standards     
 http://rodrigob.github.io/are_we_there_yet/build/#about     
