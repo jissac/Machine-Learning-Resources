@@ -117,7 +117,10 @@ Detecting drawn numbers using a CNN
 http://scs.ryerson.ca/~aharley/vis/conv/flat.html     
 
 Matrix multiplication     
-http://matrixmultiplication.xyz/
+http://matrixmultiplication.xyz/      
+
+Online Graphviz (useful to visualize decision trees)      
+https://dreampuf.github.io/GraphvizOnline/
 
 ## Datasets
 Health data  
