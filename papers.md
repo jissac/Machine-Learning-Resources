@@ -15,5 +15,5 @@ https://arxiv.org/pdf/1409.1556.pdf
 https://homes.cs.washington.edu/~ali/papers/YOLO.pdf
 
 ## Toolkits
-**Scikit-learn:** Machine learning software     
+**Scikit-learn:** Machine learning software API design            
 https://arxiv.org/pdf/1309.0238.pdf
