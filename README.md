@@ -130,5 +130,8 @@ Cats vs Dogs classification
 https://www.kaggle.com/c/dogs-vs-cats/data        
 
 Stanford Street View House Numbers       
-http://ufldl.stanford.edu/housenumbers/
+http://ufldl.stanford.edu/housenumbers/     
+
+Fashion-MNIST         
+https://github.com/zalandoresearch/fashion-mnist
 
