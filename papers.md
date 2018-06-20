@@ -12,8 +12,12 @@ https://www.nvidia.cn/content/tesla/pdf/machine-learning/imagenet-classification
 https://arxiv.org/pdf/1409.1556.pdf
 
 **YOLO v1** Fast object detection   
-https://homes.cs.washington.edu/~ali/papers/YOLO.pdf
+https://homes.cs.washington.edu/~ali/papers/YOLO.pdf       
 
 ## Toolkits
 **Scikit-learn:** Machine learning software API design            
 https://arxiv.org/pdf/1309.0238.pdf
+
+## Self-driving cars
+**NVIDIA:** end-to-end learning        
+https://arxiv.org/pdf/1604.07316.pdf       
