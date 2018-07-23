@@ -84,7 +84,13 @@ List of the best performing papers on various dataset standards
 http://rodrigob.github.io/are_we_there_yet/build/#about     
 
 Berkeley AI Research (BAIR)     
-http://bair.berkeley.edu/blog/
+http://bair.berkeley.edu/blog/      
+
+Paperspace blog           
+https://blog.paperspace.com/        
+
+Machine learning library built in Javacsript (on top of tensorflow.js)          
+https://ml5js.org/    
 
 ## Books      
 Good introduction to Deep Learning by Michael Nielsen     
