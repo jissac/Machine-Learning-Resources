@@ -17,7 +17,7 @@ https://homes.cs.washington.edu/~ali/papers/YOLO.pdf
 **YOLO v2** Better, Faster, Stronger        
 https://pjreddie.com/media/files/papers/YOLO9000.pdf       
 
-**YOLO v3** An incremental improvement
+**YOLO v3** An incremental improvement        
 https://pjreddie.com/media/files/papers/YOLOv3.pdf         
 
 ## Toolkits
