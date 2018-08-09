@@ -14,6 +14,12 @@ https://arxiv.org/pdf/1409.1556.pdf
 **YOLO v1** Fast object detection   
 https://homes.cs.washington.edu/~ali/papers/YOLO.pdf       
 
+**YOLO v2** Better, Faster, Stronger        
+https://pjreddie.com/media/files/papers/YOLO9000.pdf       
+
+**YOLO v3** An incremental improvement
+https://pjreddie.com/media/files/papers/YOLOv3.pdf         
+
 ## Toolkits
 **Scikit-learn:** Machine learning software API design            
 https://arxiv.org/pdf/1309.0238.pdf
