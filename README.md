@@ -92,6 +92,9 @@ https://blog.paperspace.com/
 Machine learning library built in Javacsript (on top of tensorflow.js)          
 https://ml5js.org/    
 
+Collection of Udacity videos on GANs      
+https://www.nodalpoint.com/gans-udacity/
+
 ## Books      
 Good introduction to Deep Learning by Michael Nielsen     
 http://neuralnetworksanddeeplearning.com/index.html    
