@@ -106,7 +106,7 @@ http://incompleteideas.net/book/bookdraft2017nov5.pdf
 Hands on Machine Learning with Scikit-learn and Tensorflow       
 http://shop.oreilly.com/product/0636920052289.do     
 
-Deep Learning with Python (using Keras)
+Deep Learning with Python (using Keras)         
 https://www.manning.com/books/deep-learning-with-python
 
 
