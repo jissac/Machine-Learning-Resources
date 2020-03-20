@@ -92,6 +92,9 @@ https://blog.paperspace.com/
 Machine learning library built in Javacsript (on top of tensorflow.js)          
 https://ml5js.org/    
 
+AI Summer (A Deep Learning blog)
+https://theaisummer.com/
+
 
 ## Books      
 Good introduction to Deep Learning by Michael Nielsen     
